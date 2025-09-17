@@ -22,8 +22,8 @@ APP_NAME="file_transfer_app"
 # This checks if the executable exists. If not, it builds the project using g++.
 if [ ! -f "$APP_NAME" ]; then
     echo "Executable not found. Compiling project now..."
-    g++ main.cpp client.cpp server.cpp -o "$APP_NAME" -pthread -std=c++11 -lssl -lcrypto
-    
+    g++ main.cpp client.cpp server.cpp common.cpp -o "$APP_NAME" -pthread -std=c++17 -lssl -lcrypto
+ 
     if [ $? -ne 0 ]; then
         echo "Error: Compilation Failed."
         exit 1
