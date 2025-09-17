@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/file_transfer_app.dir/main.cpp.o CMakeFiles/file_transfer_app.dir/client.cpp.o CMakeFiles/file_transfer_app.dir/server.cpp.o -o file_transfer_app  /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 

@@ -1,3 +1,0 @@
-/home/sarvesh/windows/users/sonali/desktop/resjproj/multifile-transfer/build/CMakeFiles/file_transfer_app.dir
-/home/sarvesh/windows/users/sonali/desktop/resjproj/multifile-transfer/build/CMakeFiles/edit_cache.dir
-/home/sarvesh/windows/users/sonali/desktop/resjproj/multifile-transfer/build/CMakeFiles/rebuild_cache.dir
