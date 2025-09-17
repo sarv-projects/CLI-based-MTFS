@@ -34,7 +34,7 @@ The included `app.sh` script will auto-check and install required dependencies.
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/sarv-projects/CLI-based-MTFS.git
-cd your-repo-name
+cd CLI-based-MTFS
 ````
 
 ### 2. Make the Script Executable
